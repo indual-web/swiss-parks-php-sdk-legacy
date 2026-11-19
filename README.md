@@ -33,9 +33,7 @@ Each package includes `parks_api/classes/ParksMigration.php` with incremental sc
 
 - **Unsupported** for new integrations
 - No new builds or fixes; migration notes above are frozen archives
-- Prefer upgrading to **v21.1**, then to **v22** in the current SDK:
-  - [indual-web/swiss-parks-php-sdk](https://github.com/indual-web/swiss-parks-php-sdk)
-  - Migration **v21 → v22**: [docs/guides/migrations/21-to-22.md](https://github.com/indual-web/swiss-parks-php-sdk/blob/main/docs/guides/migrations/21-to-22.md)
+- Prefer upgrading to **v21.1**, then to **v22** via [Current SDK](#current-sdk)
 
 ## License
 
