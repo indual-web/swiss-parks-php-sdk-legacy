@@ -1,12 +1,12 @@
 # Swiss Parks PHP SDK (legacy)
 
-Frozen archive of **MySQL-based** Swiss Parks PHP API / SDK packages (**v14–v21.1**).
+Frozen archive of Swiss Parks PHP API / SDK packages (**v14–v21.1**).
 
 This repository is **not** under active development. Use it only to download historical release ZIPs.
 
 ## Current SDK
 
-From **v22** onward the SDK uses SQLite and lives in a separate repository:
+From **v22** onward the current SDK lives in a separate repository:
 
 - [indual-web/swiss-parks-php-sdk](https://github.com/indual-web/swiss-parks-php-sdk)
 - Migration **v21 → v22**: [docs/guides/migrations/21-to-22.md](https://github.com/indual-web/swiss-parks-php-sdk/blob/main/docs/guides/migrations/21-to-22.md)
@@ -33,7 +33,9 @@ Each package includes `parks_api/classes/ParksMigration.php` with incremental sc
 
 - **Unsupported** for new integrations
 - No new builds or fixes; migration notes above are frozen archives
-- Prefer upgrading to **v21.1**, then to **v22** using the current SDK docs
+- Prefer upgrading to **v21.1**, then to **v22** in the current SDK:
+  - [indual-web/swiss-parks-php-sdk](https://github.com/indual-web/swiss-parks-php-sdk)
+  - Migration **v21 → v22**: [docs/guides/migrations/21-to-22.md](https://github.com/indual-web/swiss-parks-php-sdk/blob/main/docs/guides/migrations/21-to-22.md)
 
 ## License
 

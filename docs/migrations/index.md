@@ -4,11 +4,14 @@
 
 Frozen upgrade notes formerly published in the Swiss Parks Offer Database export settings.
 
-These guides are archival. Prefer upgrading to **v21.1**, then to **v22** in the [current SDK](https://github.com/indual-web/swiss-parks-php-sdk/blob/main/docs/guides/migrations/21-to-22.md).
+These guides are archival. Recommended path: upgrade **stepwise** through the guides below to **v21.1**, then move to **v22** in the current SDK:
+
+- [indual-web/swiss-parks-php-sdk](https://github.com/indual-web/swiss-parks-php-sdk)
+- Migration **v21 → v22**: [docs/guides/migrations/21-to-22.md](https://github.com/indual-web/swiss-parks-php-sdk/blob/main/docs/guides/migrations/21-to-22.md)
 
 | Version | Released | Guide |
 | --- | --- | --- |
-| 14 | December 20, 2022 | [14.md](./14.md) |
+| 14 | December 20, 2021 | [14.md](./14.md) |
 | 15 | February 21, 2022 | [15.md](./15.md) |
 | 16 | July 26, 2022 | [16.md](./16.md) |
 | 17 | November 8, 2022 | [17.md](./17.md) |
